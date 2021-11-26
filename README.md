@@ -29,4 +29,34 @@ Lots 1 and 2 have quite low variance than lot 3, which shows malmost twice the m
 
 # T-Tests on Suspension Coils
 
+![alt_text](https://github.com/anamahmed15/MechaCar_Statistical_Analysis/blob/main/Plots%20and%20Results%20Images/Output%202.PNG)
+
+
+
+![alt_text](https://github.com/anamahmed15/MechaCar_Statistical_Analysis/blob/main/Plots%20and%20Results%20Images/Output%203.PNG)
+
+
+
+![alt_text](https://github.com/anamahmed15/MechaCar_Statistical_Analysis/blob/main/Plots%20and%20Results%20Images/Output%204.PNG)
+
+
+
+![alt_text](https://github.com/anamahmed15/MechaCar_Statistical_Analysis/blob/main/Plots%20and%20Results%20Images/Output%205.PNG)
+
+
+
+![alt_text](https://github.com/anamahmed15/MechaCar_Statistical_Analysis/blob/main/Plots%20and%20Results%20Images/Output%206.PNG)
+
+
+# Design study: MechaCar vs. Competitors
+
+In order to compare performances with other market competitors, we would need additioal data from numerous sources, including market analysis and manufacturer information. We can look into metrics such as:
+* Highway fuel efficiency (MPG)
+* City fuel efficiency (MPG)
+* Engine life
+* Market saturation
+* Popularity rating
+
+These metrics can contribute to determine different aspects of what one might consider "performance".
+
 
